@@ -1,0 +1,8 @@
+Data Importing and Cleaning Projects
+
+Project Description
+New York City has a variety of Airbnb listings to meet the high demand for temporary lodging for travelers, with several different price levels, room types, and locations.
+In this project, i'll be able to practice my Python skills in importing and cleaning data and data manipulation to help my report insights to a real estate start-up!
+
+
+
